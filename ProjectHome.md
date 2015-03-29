@@ -1,0 +1,1 @@
+An unsupervised Bayesian postagger. See http://aclweb.org/anthology-new/D/D10/D10-1020.pdf for details.
